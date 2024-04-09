@@ -6,6 +6,6 @@ deployment:
     runtime: "4.4.0"
   region: "us-east-2"
   workers: "1"
-  workerType: "MICRO" 
+  workerType: "MICRO
   
   
